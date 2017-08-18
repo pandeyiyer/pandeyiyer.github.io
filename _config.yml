@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Shivam
 paginate:       5
 baseurl:        ""
-url:            "https://pandeyiyer.github.io/"
+url:            "https://pandeyiyer.github.io"
 
 # Assets
 sass:
