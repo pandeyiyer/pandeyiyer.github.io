@@ -2,8 +2,8 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          @pandeyiyer
-paginate:       5
+title:          Shivam Pandey
+paginate:  5
 baseurl:        ""
 url:            "https://pandeyiyer.github.io"
 
