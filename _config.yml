@@ -17,14 +17,14 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Shivam Pandey
+  url:          https://pandeyiyer.github.io
+  email:        pandeyiyer@gmail.com
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/pandeyiyer/pandeyiyer.github.io
 
 # Gems
 gems:
