@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          "Shivam Pandey"
-paginate:       5
-baseurl:        ""
-url:            "https://pandeyiyer.github.io"
+title:          Shivam
+paginate:       5
+baseurl:        ""
+url:            "https://pandeyiyer.github.io/"
 
 # Assets
 sass:
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Shivam Pandey
-  url:          https://pandeyiyer.github.io
-  email:        pandeyiyer@gmail.com
+  name:         Chester How
+  url:          http://chester.how
+  email:        chesterhow@gmail.com
 
 # Custom vars
 version:        3.4.1
