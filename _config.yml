@@ -23,17 +23,14 @@ background-img: "../img/intro-bg.jpg"
 ##############################
 # Dynamic Text on the Header #
 ##############################
-dynamic-typing: True
+dynamic-typing: False
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Happy Birthday, Dear Himanshi!"
-  - text: "Happy Birthday, Dear Golu Molu Polu!"
-me-img: "/img/himanshi.jpeg"
+lines: []
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
@@ -94,7 +91,6 @@ timeline-img: "/img/timeline/default.png"
 ###########
 # Contact #
 ###########
-email: "himanshipandey95@gmail.com"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 ################
@@ -107,13 +103,10 @@ pgp: False
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
   "Himanshi Pandey is an awesome person. "
-author_blurb_image: "/img/himanshi.jpeg"
 ##################
 # Social Buttons #
 ##################
 social:
-  - icon: "linkedin-in"
-    url: "https://in.linkedin.com/in/himanshi-pandey"
   - icon: "x-twitter"
     url: "https://twitter.com/"
 ############
